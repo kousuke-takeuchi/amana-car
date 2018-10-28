@@ -1,0 +1,7 @@
+.venv
+car_images
+.vgg_model
+.tflog
+.ipynb_checkpoints
+vgg_model.h5
+.python-version
